@@ -1,0 +1,16 @@
+.div12 {
+  max-width: 900px;
+  display: block;
+  margin: 50px auto 30px auto;
+  min-height: 500px;
+  background-color: rgb(1, 6, 42);
+  padding: 10px 30px 30px 30px;
+}
+
+.div12 h2 {
+  font-size: 30px;
+}
+
+.divin {
+  clear: both;
+}

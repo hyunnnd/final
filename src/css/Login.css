@@ -1,0 +1,16 @@
+.divLogin {
+  max-width: 800px;
+  display: block;
+  margin: 8% auto 10% auto;
+  min-height: 300px;
+  background-color: rgb(1, 6, 42);
+  padding: 10px 30px 30px 30px;
+}
+
+.divLogin h2 {
+  font-size: 30px;
+}
+
+.formInPutBox {
+  margin-bottom: 20px;
+}

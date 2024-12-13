@@ -1,0 +1,352 @@
+[
+  {
+    "team": "T1",
+    "name": "Doran",
+    "line": "TOP",
+    "img_path": "T1/Doran.webp",
+    "id": "1"
+  },
+  {
+    "team": "T1",
+    "name": "Oner",
+    "line": "JGL",
+    "img_path": "T1/Oner.webp",
+    "id": "2"
+  },
+  {
+    "team": "T1",
+    "name": "Faker",
+    "line": "MID",
+    "img_path": "T1/Faker.webp",
+    "id": "3"
+  },
+  {
+    "team": "T1",
+    "name": "Gumayusi",
+    "line": "BOT",
+    "img_path": "T1/Gumayusi.webp",
+    "id": "4"
+  },
+  {
+    "team": "T1",
+    "name": "Keria",
+    "line": "SPT",
+    "img_path": "T1/Keria.webp",
+    "id": "5"
+  },
+  {
+    "team": "Gen.G",
+    "name": "Kiin",
+    "line": "TOP",
+    "img_path": "GenG/Kiin.webp",
+    "id": "6"
+  },
+  {
+    "team": "Gen.G",
+    "name": "Canyon",
+    "line": "JGL",
+    "img_path": "GenG/Canyon.webp",
+    "id": "7"
+  },
+  {
+    "team": "Gen.G",
+    "name": "Chovy",
+    "line": "MID",
+    "img_path": "GenG/Chovy.webp",
+    "id": "8"
+  },
+  {
+    "team": "Gen.G",
+    "name": "Ruler",
+    "line": "BOT",
+    "img_path": "GenG/Ruler.webp",
+    "id": "9"
+  },
+  {
+    "team": "Gen.G",
+    "name": "Duro",
+    "line": "SPT",
+    "img_path": "GenG/Duro.webp",
+    "id": "10"
+  },
+  {
+    "team": "HLE",
+    "name": "Zeus",
+    "line": "TOP",
+    "img_path": "Hanwha/Zeus.webp",
+    "id": "11"
+  },
+  {
+    "team": "HLE",
+    "name": "Peanut",
+    "line": "JGL",
+    "img_path": "Hanwha/Peanut.png",
+    "id": "12"
+  },
+  {
+    "team": "HLE",
+    "name": "Zeka",
+    "line": "MID",
+    "img_path": "Hanwha/Zeka.png",
+    "id": "13"
+  },
+  {
+    "team": "HLE",
+    "name": "Viper",
+    "line": "BOT",
+    "img_path": "Hanwha/Viper.png",
+    "id": "14"
+  },
+  {
+    "team": "HLE",
+    "name": "Delight",
+    "line": "SPT",
+    "img_path": "Hanwha/Delight.png",
+    "id": "15"
+  },
+  {
+    "team": "DK",
+    "name": "Siwoo",
+    "line": "TOP",
+    "img_path": "Dplus/Siwoo.png",
+    "id": "16"
+  },
+  {
+    "team": "DK",
+    "name": "Lucid",
+    "line": "JGL",
+    "img_path": "Dplus/Lucid.png",
+    "id": "17"
+  },
+  {
+    "team": "DK",
+    "name": "ShowMaker",
+    "line": "MID",
+    "img_path": "Dplus/ShowMaker.png",
+    "id": "18"
+  },
+  {
+    "team": "DK",
+    "name": "Aiming",
+    "line": "BOT",
+    "img_path": "Dplus/Aiming.png",
+    "id": "19"
+  },
+  {
+    "team": "DK",
+    "name": "BeryL",
+    "line": "SPT",
+    "img_path": "Dplus/BeryL.webp",
+    "id": "20"
+  },
+  {
+    "team": "KT",
+    "name": "PerfecT",
+    "line": "TOP",
+    "img_path": "Kt/PerfecT.png",
+    "id": "21"
+  },
+  {
+    "team": "KT",
+    "name": "Cuzz",
+    "line": "JGL",
+    "img_path": "Kt/Cuzz.webp",
+    "id": "22"
+  },
+  {
+    "team": "KT",
+    "name": "Bdd",
+    "line": "MID",
+    "img_path": "Kt/Bdd.png",
+    "id": "23"
+  },
+  {
+    "team": "KT",
+    "name": "deokdam",
+    "line": "BOT",
+    "img_path": "Kt/deokdam.webp",
+    "id": "24"
+  },
+  {
+    "team": "KT",
+    "name": "Way",
+    "line": "SPT",
+    "img_path": "Kt/Way.webp",
+    "id": "25"
+  },
+  {
+    "team": "BNK",
+    "name": "Clear",
+    "line": "TOP",
+    "img_path": "FearX/Clear.png",
+    "id": "26"
+  },
+  {
+    "team": "BNK",
+    "name": "Raptor",
+    "line": "JGL",
+    "img_path": "FearX/Raptor.png",
+    "id": "27"
+  },
+  {
+    "team": "BNK",
+    "name": "VicLa",
+    "line": "MID",
+    "img_path": "FearX/Vicla.png",
+    "id": "28"
+  },
+  {
+    "team": "BNK",
+    "name": "Diable",
+    "line": "BOT",
+    "img_path": "FearX/Diable.webp",
+    "id": "29"
+  },
+  {
+    "team": "BNK",
+    "name": "Kellin",
+    "line": "SPT",
+    "img_path": "FearX/Kellin.webp",
+    "id": "30"
+  },
+  {
+    "team": "KDF",
+    "name": "DuDu",
+    "line": "TOP",
+    "img_path": "Kwangdong/DuDu.png",
+    "id": "31"
+  },
+  {
+    "team": "KDF",
+    "name": "Pyosik",
+    "line": "JGL",
+    "img_path": "Kwangdong/Pyosik.webp",
+    "id": "32"
+  },
+  {
+    "team": "KDF",
+    "name": "BuLLDoG",
+    "line": "MID",
+    "img_path": "Kwangdong/BuLLDoG.png",
+    "id": "33"
+  },
+  {
+    "team": "KDF",
+    "name": "Berserker",
+    "line": "BOT",
+    "img_path": "Kwangdong/Berserker.webp",
+    "id": "34"
+  },
+  {
+    "team": "KDF",
+    "name": "Life",
+    "line": "SPT",
+    "img_path": "Kwangdong/Life.webp",
+    "id": "35"
+  },
+  {
+    "team": "NS",
+    "name": "Kingen",
+    "line": "TOP",
+    "img_path": "Nongshim/Kingen.webp",
+    "id": "36"
+  },
+  {
+    "team": "NS",
+    "name": "Sylvie",
+    "line": "JGL",
+    "img_path": "Nongshim/Sylvie.png",
+    "id": "37"
+  },
+  {
+    "team": "NS",
+    "name": "Fisher",
+    "line": "MID",
+    "img_path": "Nongshim/Fisher.png",
+    "id": "38"
+  },
+  {
+    "team": "NS",
+    "name": "Jiwoo",
+    "line": "BOT",
+    "img_path": "Nongshim/Jiwoo.png",
+    "id": "39"
+  },
+  {
+    "team": "NS",
+    "name": "Lehends",
+    "line": "SPT",
+    "img_path": "GenG/Lehends.webp",
+    "id": "40"
+  },
+  {
+    "team": "DRX",
+    "name": "Rich",
+    "line": "TOP",
+    "img_path": "Drx/Rich.webp",
+    "id": "41"
+  },
+  {
+    "team": "DRX",
+    "name": "Juhan",
+    "line": "JGL",
+    "img_path": "Drx/Juhan.webp",
+    "id": "42"
+  },
+  {
+    "team": "DRX",
+    "name": "Ucal",
+    "line": "MID",
+    "img_path": "Drx/Ucal.png",
+    "id": "43"
+  },
+  {
+    "team": "DRX",
+    "name": "Teddy",
+    "line": "BOT",
+    "img_path": "Drx/Teddy.png",
+    "id": "44"
+  },
+  {
+    "team": "DRX",
+    "name": "Pleata",
+    "line": "SPT",
+    "img_path": "Drx/Pleata.png",
+    "id": "45"
+  },
+  {
+    "team": "BRO",
+    "name": "Morgan",
+    "line": "TOP",
+    "img_path": "Brion/Morgan.png",
+    "id": "46"
+  },
+  {
+    "team": "BRO",
+    "name": "Hambak",
+    "line": "JGL",
+    "img_path": "Brion/Hambak.webp",
+    "id": "47"
+  },
+  {
+    "team": "BRO",
+    "name": "Clozer",
+    "line": "MID",
+    "img_path": "Brion/Clozer.webp",
+    "id": "48"
+  },
+  {
+    "team": "BRO",
+    "name": "Hype",
+    "line": "BOT",
+    "img_path": "Brion/Hype.webp",
+    "id": "49"
+  },
+  {
+    "team": "BRO",
+    "name": "Pollu",
+    "line": "SPT",
+    "img_path": "Brion/Pollu.png",
+    "id": "50"
+  }
+]

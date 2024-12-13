@@ -1,0 +1,95 @@
+.div11 {
+  max-width: 1300px;
+  display: flex;
+  justify-content: space-between;
+  margin: 50px auto 30px auto;
+  min-height: 500px;
+  padding: 10px 30px 30px 30px;
+}
+
+.inner1 {
+  background-color: rgb(1, 6, 42);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  height: auto;
+  overflow: hidden;
+  min-width: 50.4%;
+  margin-right: 20px;
+}
+
+.inner2 {
+  background-color: rgb(1, 6, 42);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  height: auto;
+  overflow: hidden;
+  min-width: 41%;
+}
+
+.div11 h2 {
+  font-size: 26px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+.dettitle {
+  margin: 10px 10px 15px 10px;
+  border: 3px white solid;
+  border-radius: 10px;
+  padding: 15px;
+  font-size: 18px;
+}
+
+.dmakeuser {
+  padding: 18px;
+}
+
+.detdetail {
+  margin-bottom: 15px;
+  padding: 18px;
+  font-size: 15px;
+}
+
+/* 수정된 부분 시작 */
+.header-row {
+  display: flex;
+  align-items: center;
+}
+
+.header-row h2 {
+  flex-grow: 1; /* h2가 왼쪽에 고정됨 */
+}
+
+.button-group {
+  display: flex;
+  gap: 20px; /* 버튼 간의 간격을 20px로 설정 */
+}
+/* 수정된 부분 끝 */
+
+.make2 {
+  padding: 12px 24px;
+  margin-left: 10px;
+  background-color: rgb(216, 2, 2);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  float: right;
+  margin-bottom: 20px;
+}
+
+.make20 {
+  padding: 12px 24px;
+  margin-left: 10px;
+  background-color: rgb(231, 235, 0);
+  border: none;
+  border-radius: 10px;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  float: right;
+  margin-bottom: 20px;
+}
